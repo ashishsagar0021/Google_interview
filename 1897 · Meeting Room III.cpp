@@ -1,3 +1,4 @@
+//https://www.lintcode.com/problem/1897/description
 class Solution {
 public:
     struct segtree
